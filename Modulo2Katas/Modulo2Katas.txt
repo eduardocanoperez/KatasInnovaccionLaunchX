@@ -1,0 +1,12 @@
+# Hola! envio los pasos a realizar en la kata 2.
+# uso WSL2 y la terminal ZSH
+
+Paso 1: creo el entorno virtual
+paso 2: muestro que tengo la carpeta venv
+paso 3: activamos el entorno virtual
+paso 4: pip freeze y no tenemos nada en el entorno virtual
+paso 5: instalamos dateutil
+paso 6: pip freeze y muestra 2 nuevos paquetes 
+paso 7 y 8: creamos un alias para activar el entorno virtual mas rapido y lo desactivamos
+
+¡listo, tenemos nuestro entorno virtual!
