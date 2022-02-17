@@ -1,4 +1,5 @@
 # Intenta crear un archivo de Python y asígnale el nombre open.py, con el contenido siguiente:
+#fui haciendo las Katas por bloques les ponia '''triple comillas''' para ir aislando.
 
 def main():
     open("/path/to/mars.jpg")
